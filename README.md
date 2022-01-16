@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @technoc
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Qt
-- 💞️ I’m looking to collaborate on ...robotic
+- 💞️ I’m looking to collaborate on ...delta tau pmac controlling
 - 📫 How to reach me ...
 
 <!---
